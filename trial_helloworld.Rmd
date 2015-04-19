@@ -4,3 +4,7 @@ author: "sudhakar"
 date: "Sunday, April 19, 2015"
 output: html_document
 ## this is markdown file
+
+I created TXT file in note pad and MD & Rmd file R studio.
+I have made error of deleting a file in GIt repositiry and try to fetch from github. I am doing trial. A nice training.
+ss
